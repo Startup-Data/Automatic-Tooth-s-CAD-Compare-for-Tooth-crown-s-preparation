@@ -9,21 +9,22 @@ So it must be done by on the 32 Constant Geometrical characteristic for the teet
 
 # TODO List:
 
-1- find the Proper software with community to gather the written python code (AI CAD Segmentation part) and do it by the Target software's modules or by finding the written scripts, or writing the python scripts (!). (Asked here) 
+### 1- find the Proper software with community to gather the written python code (AI CAD Segmentation part) and do it by the Target software's modules or by finding the written scripts, or writing the python scripts (!). (Asked here) 
 
  - 1-1- Try to Check how to do it one cloudcompare:
    
  - 1-2- Try to Check how to do it one Blender:
 
-2- The AI CAD secretions part:
+### 2- The AI CAD secretions part:
+
 I guess the Colab Codes could be found at These pages:
-. [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 
+ - [3D Machine
+   Learning](https://github.com/timzhang642/3D-Machine-Learning)
+ - [Autonomous Geometry Processing Using Machine Learning and
+   Forge](https://medium.com/autodesk-university/autonomous-geometry-processing-using-machine-learning-and-forge-3b89b40e97cb)
 
-https://medium.com/autodesk-university/autonomous-geometry-processing-using-machine-learning-and-forge-3b89b40e97cb
-
-
-Suggestions for some new project:
+## Suggestions for some new project:
 
   1- making the teeth STL files by the teeth PNG photo like is done for face here:
 
@@ -46,8 +47,6 @@ I guess the [CloudCompare][8] is a good candidate. For doing it, I need writing 
 So, the main question is about finding the proper software to do this procedure on it (blender or  ...), so by finding some popular Open source software for this calculation I could find some sample code via [GitHub][12] and [Paperswithcode][13] site, better.
 
 
-Note: I have tried to ask this question as a guideline to do this kind of project, for myself at future or others (by adding the search links and ...), so it could seem it would have much information so excuse me for giving too informations to you.
-Thanks for attention.
 
 
   [1]: https://www.dentsplysirona.com/en/explore/universities-and-large-clinics/products/prepcheck.html
