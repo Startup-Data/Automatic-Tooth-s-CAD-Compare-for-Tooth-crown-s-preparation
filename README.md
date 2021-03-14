@@ -9,7 +9,10 @@ So it must be done by on the 32 Constant Geometrical characteristic for the teet
 
 # TODO List:
 
-### 1- find the Proper software with community to gather the written python code (AI CAD Segmentation part) and do it by the Target software's modules or by finding the written scripts, or writing the python scripts (!). ([Asked here](https://engineering.stackexchange.com/questions/40966/trying-to-find-proper-open-source-cad-software-for-the-automatic-tooth-comparing)) 
+### 1- find the Proper software with community to gather the written python code (AI CAD Segmentation part) and do it by the Target software's modules or by finding the written scripts, or writing the python scripts (!)([Asked here].(https://engineering.stackexchange.com/questions/40966/trying-to-find-proper-open-source-cad-software-for-the-automatic-tooth-comparing)) 
+
+![image](https://user-images.githubusercontent.com/6679151/111053989-fcae6c80-847d-11eb-81bb-2054c55f5e02.png)
+
 
  - 1-1- Try to Check how to do it one cloudcompare:
    
