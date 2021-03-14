@@ -7,7 +7,7 @@ I am trying to do the Automatic Tooth's CAD Compare for Tooth crown's preparatio
 So it must be done by on the 32 Constant Geometrical characteristic for the teeth as said [here][4].
 
 
-# TODD List:
+# TODO List:
 
 1- find the Proper software with community to gather the written python code (AI CAD Segmentation part) and do it by the Target software's modules or by finding the written scripts, or writing the python scripts (!). (Asked here) 
 
