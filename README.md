@@ -1,6 +1,6 @@
 # Automatic-Tooth-s-CAD-Compare-for-Tooth-crown-s-preparation
 
-I am trying to do the Automatic Tooth's CAD Compare for Tooth crown's preparation. One software for this work is the [**PrepCheck** software][1] and do it like shown below (YouTube video)][6]
+I am trying to do the Automatic Tooth's CAD Compare for Tooth crown's preparation. One software for this work is the [**PrepCheck** software][1] and do it like shown below ([YouTube video])[6].
 
 [![enter image description here][7]][7]
 
