@@ -1,4 +1,4 @@
-# this page Is About some papers for 2D image to 3D segmentation: Some Papers wit Codes are found by this search result:
+# This page Is About some papers for 2D image to 3D segmentation: Some Papers wit Codes are found by this search result:
 
 [site:paperswithcode.com  mesh segmentation][1]
 
