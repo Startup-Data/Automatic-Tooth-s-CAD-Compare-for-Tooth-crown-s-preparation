@@ -1,4 +1,4 @@
-# This page Is About some papers for 2D image to 3D segmentation: Some Papers wit Codes are found by this search result:
+# This page Is About some papers for 2D image to 3D segmentation: Some Papers with Codes are found by this search result:
 
 ## First of all I have tried to search papers and their codes by the `mesh reconstruction` and `mesh segmentation` **tags** at paperswithcode.com site  ([site:paperswithcode.com  mesh segmentation][1])
 
